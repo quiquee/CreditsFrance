@@ -1,0 +1,32 @@
+Produit;Famille;Type de financement;Lot;Produit ALM;Palier de Taux;Palier de Mensualités;Par Tranches;Type d'amortissement;Option RA;Phase Mobilisation
+MLT Généraliste;Standard;CMLT - Prêt amortissable;1;;;;oui;F/V/L;;
+MLT Equipement;Standard;CMLT - Prêt amortissable;1;;;;oui;F/V/L;;
+MLT Hypothécaire;Standard;CMLT - Prêt amortissable;1;;;;oui;F/V/L;;
+PPR;Standard;CMLT - Prêt amortissable;3;;;;;;;
+PGE;Standard;CMLT - Prêt amortissable;3;;;;;;;
+Crédit relais de TVA;Standard;CCT - Prêt amortissable spécifique (adossé à un CMLT In fine pour la TVA);1;;;;no;in fine;no;
+Prêt relais;Standard;CCT - Prêt amortissable;1;;;;;;;
+Crédit impact;Standard;CMLT - Prêt amortissable;1;;;;;;;
+Prêts verts;Standard;CMLT - Prêt amortissable;1;;;;;;;
+Prêt décarbonation;Standard;CMLT - Prêt amortissable;1;;;;;;;
+Prêt Social Collectivité;Standard;CMLT - Prêt amortissable;1;;;;;;;
+PLS;Standard;CMLT - Prêt amortissable réglementé;1;;;;oui;;;
+PSLA;Standard;CMLT - Prêt amortissable réglementé;1;;;;oui;;;
+CIR;Standard;CMLT - Prêt in fine;1;;;;;In Fine;;
+Cession de créance locative;Standard;CMLT - Prêt amortissable;1;;;;;;Oui;
+Crédit d’escompte;Standard;CMLT - Prêt amortissable spécifique (commission d’escompte);1;;;;;;;
+Ligne de financement d’équipement;Standard;Enveloppe multi-prêts amortissables;1;;;;;In Fine;Oui;
+Ligne de trésorerie;Standard;Crédit Revolving (tirages);1;;;;;;;
+Garantie de crédit;Standard;EPS - Engagement Par Signature;1;;;;;;;
+Caution Classique;Standard;EPS - Engagement Par Signature;1;;;;;;;
+eCaution (VIALINK);Standard;EPS - Engagement Par Signature spécifique (contrat cadre multi donneurs d’ordres);3;;;;;;;
+CAPEX line;Non-standard;Prêt mixte avec phase de mobilisation par tirages et phase de consolidation amortissable;2;;;;;;;Oui
+RCF cash;Non-standard;Crédit Revolving (tirages);1;;;;;;;
+RCF promotion immobilière;Non-standard;Crédit Revolving (tirages);2;;;;;;;
+Capital call;Non-standard;Crédit Revolving mixte cash (tirages)/LC (EPS);2;;;;;;;
+Swing line;Non-standard;Crédit Revolving (tranche ou autonome);2;;;;;;;
+RCF mixte;Non-standard;Crédit Revolving mixte cash/LC;2;;;;;;;
+Term Loan mixte;Non-standard;Enveloppe de crédit mixte Amortissable/LC;2;;;;;;;
+LC Facility;Non-standard;Engagement Par Signature (tranche);2;;;;;;;
+DSRF;Non-standard;Crédit Revolving (tranche);2;;;;;;;
+Crédit d’export;Non-standard;Prêt amortissable;2;;;;;;;
